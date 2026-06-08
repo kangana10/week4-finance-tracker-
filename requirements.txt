@@ -1,0 +1,4 @@
+# Personal Finance Tracker — Python dependencies
+# No third-party packages required (uses only the standard library).
+# For testing:
+pytest>=7.0
