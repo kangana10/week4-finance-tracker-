@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "last_saved": "2026-06-08T14:30:15.587702",
+  "budgets": {},
+  "expenses": [
+    {
+      "expense_id": 2,
+      "date": "2026-06-03",
+      "amount": 120.0,
+      "category": "Transport",
+      "description": "Auto Fare"
+    },
+    {
+      "expense_id": 3,
+      "date": "2026-06-04",
+      "amount": 499.0,
+      "category": "Entertainment",
+      "description": "Netflix subscription"
+    }
+  ]
+}
